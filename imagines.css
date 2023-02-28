@@ -1,0 +1,16 @@
+*{ 
+    padding: 0px;
+    margin: 0px;
+}
+.imagenes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10 px;
+    cursor: pointer;
+}
+.img2{
+    width: 300px;
+    height: 300 px;
+}
